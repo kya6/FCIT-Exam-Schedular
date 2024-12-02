@@ -14,7 +14,7 @@ FCIT Exam Scheduler is an application that helps FCIT students efficiently organ
 - Enhanced User Experience
 
 ### Before running the code
-1. *Make sure you have installed the needed libraries of the project.*
+1. **Make sure you have installed the needed libraries of the project.**
 
 [JavaFX 23.0.1](https://openjfx.io/)
 
