@@ -15,21 +15,28 @@ FCIT Exam Scheduler is an application that helps FCIT students efficiently organ
 
 ### Before running the code
 1. Make sure you have installed the needed libraries of the project.
+
 [JavaFX 23.0.1](https://openjfx.io/)
+
 [SQLite 3.47.1.0](https://sqlitebrowser.org/blog/version-3-13-1-released/)
+
 [JSON 20210307](https://mvnrepository.com/artifact/org.json/json/20210307)
+
 [Jsoup 1.18.3](https://jsoup.org/download)
 
-3. Add the libraries to the project structure.
+2. Add the libraries to the project structure.
 
   if you use IntelliJ:
   - Go to ' File > Project Structure > Libraries '
   - Add all libraries, and make sure you just add the "lib" folder of JavaFX library.
     
-4. Edit configurations and change the path.
+3. Edit configurations and change the path.
 
   - Go to ' Edit Configuratin ' you will find it left of Run button.
   - In the '--module path' change the current path and locate the path into "lib" folder of JavaFX library.
-5. Run "Server" class.
-6. Run "MainApp" class.
-7. Enjoy :)
+
+4. Run "Server" class.
+
+5. Run "MainApp" class.
+
+6. Enjoy :)
