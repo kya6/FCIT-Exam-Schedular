@@ -1,4 +1,4 @@
-# FCIT-Exam-Schedular
+# FCIT Exam Schedular
 ![banner](https://github.com/user-attachments/assets/c975752d-bf52-41b9-b27e-0e4db2f2be3b)
 
 ### Project By
@@ -27,13 +27,13 @@ FCIT Exam Scheduler is an application that helps FCIT students efficiently organ
 2. **Add the libraries to the project structure.**
 
   if you use IntelliJ:
-  - Go to ' File > Project Structure > Libraries '
+  - Go to `File > Project Structure > Libraries`
   - Add all libraries, and make sure you just add the "lib" folder of JavaFX library.
     
 3. **Edit configurations and change the path.**
 
-  - Go to ' Edit Configuratin ' you will find it left of Run button.
-  - In the '--module path' change the current path and locate the path into "lib" folder of JavaFX library.
+  - Go to `Edit Configurations...` you will find it left of Run button.
+  - In the `--module path` change the current path and locate the path into "lib" folder of JavaFX library.
 
 4. **Run "Server" class.**
 
